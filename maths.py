@@ -56,3 +56,35 @@ print(z * 3)
 
 # Find and print to the console the data type of z
 print(type(z))
+
+
+# Different Data Types
+======================
+# the type() function can be used for all data types
+# below will output <class 'int'>
+print(type(9))
+
+# the type() function can be used for all data types
+# below will output <class 'float'>
+print(type(9.9))
+
+# the type() function can be used for all data types
+# below will output <class 'str'>
+print(type('a string'))
+
+# the type() function can be used for all data types
+# below will output <class 'list'>
+print(type(['cat', 'dog', 'monkey']))
+
+# the type() function can be used for all data types
+# below will output <class 'dict'>
+print(type({'item': 'pen', 'inkcolour': 'blue'}))
+
+# the type() function can be used for all data types
+# below will output <class 'bool'>
+print(type(1 == 0))
+# below will output False
+print(1 == 0)
+# below will output True
+print(1 == 1)
+
