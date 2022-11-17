@@ -40,98 +40,32 @@ THIS IS A SAMPLE OUTPUT OF ABOVE SCRIPT:
 This is the list of words that were passed into this function:
  ['APPLE', 'PAPER', 'BANANA', 'FOAM', 'CAT']
 There are 5 elements in our list
-This is a random number that we could use as index: 2
-This is the word that will be returned with the random index BANANA
-BANANA
-This is the list of words that were passed into this function:
- ['APPLE', 'PAPER', 'FOAM', 'CAT']
-There are 4 elements in our list
-This is a random number that we could use as index: 2
-This is the word that will be returned with the random index FOAM
-This is the list of words that were passed into this function:
- ['APPLE', 'PAPER', 'BANANA', 'FOAM', 'CAT']
-There are 5 elements in our list
-This is a random number that we could use as index: 1
-This is the word that will be returned with the random index PAPER
-PAPER
-This is the list of words that were passed into this function:
- ['APPLE', 'BANANA', 'FOAM', 'CAT']
-There are 4 elements in our list
-This is a random number that we could use as index: 2
-This is the word that will be returned with the random index FOAM
-This is the list of words that were passed into this function:
- ['APPLE', 'PAPER', 'BANANA', 'FOAM', 'CAT']
-There are 5 elements in our list
-This is a random number that we could use as index: 2
-This is the word that will be returned with the random index BANANA
-BANANA
-This is the list of words that were passed into this function:
- ['APPLE', 'PAPER', 'FOAM', 'CAT']
-There are 4 elements in our list
 This is a random number that we could use as index: 3
-This is the word that will be returned with the random index CAT
-This is the list of words that were passed into this function:
- ['APPLE', 'PAPER', 'BANANA', 'FOAM', 'CAT']
-There are 5 elements in our list
-This is a random number that we could use as index: 4
-This is the word that will be returned with the random index CAT
-CAT
-This is the list of words that were passed into this function:
- ['APPLE', 'PAPER', 'BANANA', 'FOAM']
-There are 4 elements in our list
-This is a random number that we could use as index: 3
-This is the word that will be returned with the random index FOAM
-This is the list of words that were passed into this function:
- ['APPLE', 'PAPER', 'BANANA', 'FOAM', 'CAT']
-There are 5 elements in our list
-This is a random number that we could use as index: 1
-This is the word that will be returned with the random index PAPER
-PAPER
-This is the list of words that were passed into this function:
- ['APPLE', 'BANANA', 'FOAM', 'CAT']
-There are 4 elements in our list
-This is a random number that we could use as index: 3
-This is the word that will be returned with the random index CAT
-This is the list of words that were passed into this function:
- ['APPLE', 'PAPER', 'BANANA', 'FOAM', 'CAT']
-There are 5 elements in our list
-This is a random number that we could use as index: 4
-This is the word that will be returned with the random index CAT
-CAT
-This is the list of words that were passed into this function:
- ['APPLE', 'PAPER', 'BANANA', 'FOAM']
-There are 4 elements in our list
-This is a random number that we could use as index: 3
-This is the word that will be returned with the random index FOAM
-This is the list of words that were passed into this function:
- ['APPLE', 'PAPER', 'BANANA', 'FOAM', 'CAT']
-There are 5 elements in our list
-This is a random number that we could use as index: 3
-This is the word that will be returned with the random index FOAM
+This is the word that will be returned with the random index: FOAM
 FOAM
 This is the list of words that were passed into this function:
  ['APPLE', 'PAPER', 'BANANA', 'CAT']
 There are 4 elements in our list
 This is a random number that we could use as index: 2
-This is the word that will be returned with the random index BANANA
+This is the word that will be returned with the random index: BANANA
 BANANA
 This is the list of words that were passed into this function:
  ['APPLE', 'PAPER', 'CAT']
 There are 3 elements in our list
 This is a random number that we could use as index: 1
-This is the word that will be returned with the random index PAPER
+This is the word that will be returned with the random index: PAPER
 PAPER
 This is the list of words that were passed into this function:
  ['APPLE', 'CAT']
 There are 2 elements in our list
 This is a random number that we could use as index: 1
-This is the word that will be returned with the random index CAT
+This is the word that will be returned with the random index: CAT
 CAT
 This is the list of words that were passed into this function:
  ['APPLE']
 There are 1 elements in our list
 This is a random number that we could use as index: 0
-This is the word that will be returned with the random index APPLE
+This is the word that will be returned with the random index: APPLE
 APPLE
 []
 """
