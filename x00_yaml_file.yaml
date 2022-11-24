@@ -1,0 +1,17 @@
+---
+# Our most preferred data file format is YAML
+# YAML stands for Yet Another Markup Language
+# YAML is great for us because:
+# - It allows comments with the hash tag,
+#   just as these comments at the beginning of this file
+# - YAML has a similar 'format' to Python using indentation
+# - More and more Linux configuration files are in YAML format
+# - We can validate our datafile copying/pasting into http://www.yamllint.com/
+# - This tool will retain the comments:
+#   https://www.json2yaml.com/convert-yaml-to-json (ignore the JSON bit for now)
+
+weatherdata:
+    wind: 30
+    wind_unit: 'km/h'
+    precipitation: 2.7
+    precipitation_unit: 'mm'
