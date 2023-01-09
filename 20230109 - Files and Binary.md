@@ -1,7 +1,7 @@
 Welcome to our CN1 Class
 9th January 2023 13:00
 
-YOU CAN ACCESS THIS FILE @: https://github.com/stefan-cnx/CN1/blob/main/20221026.md
+YOU CAN ACCESS THIS FILE @: https://raw.githubusercontent.com/stefan-cnx/CN1/main/20230109%20-%20Files%20and%20Binary.md
 
 First Task:
 1. Create a text file.
