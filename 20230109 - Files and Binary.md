@@ -22,8 +22,11 @@ Look up the Windows Commands below:
 
 color  
 dir  
+md or mkdir
+rd
 cd  
 copy  
+del  
 start https://google.com/  
 echo  
 pause  
