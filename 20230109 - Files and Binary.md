@@ -22,8 +22,8 @@ Look up the Windows Commands below:
 
 color  
 dir  
-md or mkdir
-rd
+md or mkdir  
+rd  
 cd  
 copy  
 del  
