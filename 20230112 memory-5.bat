@@ -6,9 +6,10 @@ set filename=c:\stefan\test.txt
 ::Obtain the data with Windows Commands
 for /f "tokens=1-3 delims=//" %%a in ('date /t') do (set datestamp=%%a/%%b/%%c)
 for /f "tokens=1-2 delims=/:" %%a in ('time /t') do (set timestamp=%%a:%%b)
-for /f "tokens=*" %%a in ('systeminfo ^| findstr Available ^| findstr Physical') do (set freememory=%%a)
+::The caret symbol(^) escapes the pipe symbol
+for /f "tokens=*" %%a in ('systeminfo ^| findstr Available ^| findstr Physical') do (set physicalmemory=%%a)
 
 ::Write the data to a file
-echo On the %datestamp%at %timestamp%, %freememory%. >> %filename%
+echo On the %datestamp%at %timestamp%, %physicalmemory%. >> %filename%
 
 ::pause
